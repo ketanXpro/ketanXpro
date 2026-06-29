@@ -78,6 +78,14 @@ Hi 👋, I'm Ketan Kumbhar
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ketanXpro/ketanXpro/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 ## 📜 Certifications
 
 * Cisco – Introduction to Cybersecurity
