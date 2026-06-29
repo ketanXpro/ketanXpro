@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ketan Kumbhar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Data+Analytics+Learner;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Data+Analytics+Learner" alt="Typing SVG" />
 </p>
 
 ---
