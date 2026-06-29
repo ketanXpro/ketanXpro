@@ -95,9 +95,40 @@ Hi 👋, I'm Ketan Kumbhar
 
 ---
 
+## 📌 Current Focus
+
+```text
+✔ Building Full Stack Applications with React & Node.js
+✔ Strengthening SQL & Power BI Skills
+✔ Developing SOC Monitoring & Threat Detection Projects
+✔ Solving DSA Problems on LeetCode
+✔ Seeking Software Development & Cybersecurity Internships
+```
+
+---
+
+## ⚡ Fun Fact
+
+```text
+My best debugging partner? Google, Stack Overflow, and a cup of coffee ☕.
+```
+
+---
+
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/ketan-kumbhar-448785341
 * 🌐 Portfolio: https://ketankumbharportfolio.wordpress.com/
 * 📧 Email: **[ketankumbhar0308@gmail.com](mailto:ketankumbhar0308@gmail.com)**
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ketanXpro&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting! Let's connect and build something awesome together. 🚀
+</h3>
