@@ -1,18 +1,28 @@
-# Hi 👋, I'm Ketan Kumbhar
+<h1 align="center">
+Hi 👋, I'm Ketan Kumbhar
+</h1>
+
+
+<h3 align="center">
+💻 Full Stack Development | 🛡️ SOC Monitoring | 📊 SQL & Power BI | 🐍 Python Developer
+</h3>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Data+Analytics+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Web+Development;Cybersecurity+Enthusiast;Data+Analytics;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 About Me
 
-* 🎓 Final Year **B.Tech Information Technology** Student (2023–2027)
-* 💻 Passionate about **Full Stack Web Development**
-* 🛡️ Learning **Cybersecurity** & SOC Operations
+* 🎓 Final Year B.Tech Information Technology Student
+* 💻 Passionate about Full Stack Web Development
+* 🛡️ Learning Cybersecurity & SOC Operations
 * 📊 Building SQL & Power BI Data Analytics Projects
-* 🚀 Always building projects and learning new technologies
+* 🚀 Currently exploring React, Node.js & Splunk
+* 🏆 Solved 20+ LeetCode problems
+* 🎯 Goal: Become a Full Stack Developer with Cybersecurity expertise
 
 ---
 
@@ -52,6 +62,18 @@
 * CSS
 * JavaScript
 * Google Maps API
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ketanXpro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ketanXpro&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanXpro&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
