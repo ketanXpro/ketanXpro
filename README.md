@@ -118,7 +118,7 @@ My best debugging partner? Google, Stack Overflow, and a cup of coffee ☕.
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/ketan-kumbhar-448785341
-* 🌐 Portfolio: https://ketankumbharportfolio.wordpress.com/
+* 🌐 Portfolio: https://ketankumbhar.wordpress.com/
 * 📧 Email: **[ketankumbhar0308@gmail.com](mailto:ketankumbhar0308@gmail.com)**
 
 ---
