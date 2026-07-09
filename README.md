@@ -56,13 +56,6 @@ Hi 👋, I'm Ketan Kumbhar
 * CSS
 * JavaScript
 
-### 🌍 Nearby Trip Planner Website
-
-* HTML
-* CSS
-* JavaScript
-* Google Maps API
-
 ---
 
 ## 📊 GitHub Statistics
