@@ -58,19 +58,6 @@ Hi 👋, I'm Ketan Kumbhar
 
 ---
 
-## 📊 GitHub Statistics
-
-
-<p align="center">
-  <img height="720" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ketanXpro&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" />
-  <img height="720" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ketanXpro&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="720" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanXpro&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
